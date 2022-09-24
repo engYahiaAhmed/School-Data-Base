@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1663855372 source:h:\embededd_course\projects\school_database\student.c
+
+1663865327 source:h:\embededd_course\projects\school_database\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663855372 source:c:\users\acer\desktop\embedded course\school_database\student.c
+
+1663879456 source:c:\users\acer\desktop\embedded course\school_database\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663946007 source:h:\embededd_course\projects\school_database_23_9\school_database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Student.h"
+
+1663946815 source:h:\embededd_course\projects\school_database_23_9\school_database\student.c
+	"Student.h"
+
+1663915966 h:\embededd_course\projects\school_database_23_9\school_database\student.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Student.h"
+
