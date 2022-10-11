@@ -1,5 +1,5 @@
 # School-Data-Base
-Data Base for school project with c programing language
+##Data Base for school project with c programing language
 1.	School is divided to classes and each class has their mandatory subjects and elective subjects.
 2.	Add new students.
 3.	Each student can choose his elective subjects.
