@@ -10,7 +10,9 @@ Data Base for school project with c programing language
 8.	Present the grade certificate for each student.
 9.	Print all information about student or class or the whole school.
 10.	Administrator can delete any information and will be deleted in file.
-11.	Administrator can make call to student or guardian automatically by the system
+11.	Administrator can make call to student or guardian automatically by the system.
+
+
 ![image](https://user-images.githubusercontent.com/70311284/234168286-a10c8639-661e-41d9-98b3-a84726386452.png)
 ![image](https://user-images.githubusercontent.com/70311284/234169061-d45e11ec-44a9-4250-8a9f-4eacfdafe848.png)
 
