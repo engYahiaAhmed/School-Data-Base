@@ -11,3 +11,4 @@ Data Base for school project with c programing language
 9.	Print all information about student or class or the whole school.
 10.	Administrator can delete any information and will be deleted in file.
 11.	Administrator can make call to student or guardian automatically by the system
+![image](https://user-images.githubusercontent.com/70311284/234168170-e62fd75b-af40-4a92-b28b-623224a465e5.png)
